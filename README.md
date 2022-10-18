@@ -3,7 +3,8 @@
 ## These files are ONLY for referance when setting up your custom block patterns
 
 # Inside all-block-patterns folder:
-* You MUST create a folder JUST LIKE the all-block-patterns folder that lives INSIDE the plugin folder.
+* You MUST create a folder with the same INC folder and it's content and php file with the same content as block-patterns.php
+* The all-block-patterns folder that lives INSIDE the plugin folder.
 * The plugin folder is inside of the wp-content folder of your Local Site
 * Adjust elements to your site as needed
 * REMEMBER: this is just a layout and syntax referance for you, NOT someting you want to just copy and paste into your files without changing anything
