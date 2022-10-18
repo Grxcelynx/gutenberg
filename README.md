@@ -16,7 +16,7 @@
 * You can create a SCSS file inside of your regular SCSS folder in your theme's folder for your pattern's style. Just be sure to name it the same as the file inside your all-block-patterns folder.
 * So if my php file is patterns.php then the SCSS file to register would be _patterns.scss
 
-RESOURCES:
+# RESOURCES:
 
 ### Mile's Doc: https://docs.google.com/document/d/1g8UPRGLFqCPVQIENqHvPADI5jjt6EJWX0a_yhhPqi-Q/edit
 ### JSON Escape: https://jsonformatter.org/json-escape
