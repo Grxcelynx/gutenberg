@@ -18,6 +18,6 @@
 
 # RESOURCES:
 
-### Mile's Doc: https://docs.google.com/document/d/1g8UPRGLFqCPVQIENqHvPADI5jjt6EJWX0a_yhhPqi-Q/edit
+### Miles's Doc: https://docs.google.com/document/d/1g8UPRGLFqCPVQIENqHvPADI5jjt6EJWX0a_yhhPqi-Q/edit
 ### JSON Escape: https://jsonformatter.org/json-escape
 ### YOUTUBE Vid: https://www.youtube.com/watch?v=hzbGGP_8OxM&t=335s
