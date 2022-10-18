@@ -8,6 +8,10 @@
 ?>  
 <?php get_header(); ?>
 
+// !!!! READ ME PLEASE !!!!
+// This php function MUST be put in your homepage/frontpage php file for your patterns to laod properly
+
+
 <div class="home-page">
     <?php
 

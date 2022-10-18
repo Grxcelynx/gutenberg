@@ -23,3 +23,5 @@ define( 'BLOCK_PATTERNS_VERSION', '1.0.0' );
 require_once( 'inc/patterns.php' );
 
 ?>
+
+// YOU NEED THIS FILE TO REGISTER YOUR PLUGIN

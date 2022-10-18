@@ -9,6 +9,14 @@
  * License:           GPL-3.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  */
+
+
+//  !!!!!!! READ ME BELOW !!!!!!
+
+
+// THIS FUNCTION CREATES THE CATEGORY FOR YOU TO SEE YOUR PATTERNS IN THE PATTERNS SECTION OF THE DASHBAORD WHEN USING YOUR CUSTOM MADE BLOCKS
+// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 function block_patterns() {
 	register_block_pattern_category(
 		'Nicepage',
@@ -18,6 +26,8 @@ function block_patterns() {
 	);
 
 
+	// YOU MUST USE THIS ENTIRE FUNCTION ANY TIME YOU WANT TO ADD A NEW PATTERN
+	// YOU WILL COPY AND PASTE THIS AND THEN ONLY REPLACE THE CONTENT SECTION WITH YOUR NEW JSON ESCAPED CODE
 
 	register_block_pattern(
 		'patterns/testimonials',
@@ -33,6 +43,8 @@ function block_patterns() {
 	);
 
 }    
+
+// YOU NEED THIS SO EVERYTHING REGISTERS
 
 add_action( 'init', 'block_patterns' );
 
